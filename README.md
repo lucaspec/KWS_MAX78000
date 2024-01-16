@@ -10,10 +10,10 @@ For the keywords 'red', 'green' and 'blue' I had to gather my own dataset. It ca
 
 The flashable source code for the MAX78000FTHR demo can be viewed in ```ai8x-synthesis/demos/final_demo_rgb/```. Following flowchart depicts the working principle of the audio processing.
 
-![Cat](figrues/flowchart.png)
+![Cat](figures/flowchart.PNG)
 
 ## Results
 
 Below is the normalized confusion matrix on the test set of the fully quantized model which was synthesized and deployed on the MAX78000.
 
-![Cat](images/confmat.jpg)
+![Cat](figures/confmat.PNG)
