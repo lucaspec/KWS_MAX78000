@@ -10,7 +10,7 @@ For the keywords 'red', 'green' and 'blue' I had to gather my own dataset. It ca
 
 The flashable source code for the MAX78000FTHR demo can be viewed in ```ai8x-synthesis/demos/final_demo_rgb/```. Following flowchart depicts the working principle of the audio processing.
 
-![Cat](figures/flowchart.PNG)
+![Cat](figures/flowchart2.PNG)
 
 ## Results
 
